@@ -5,8 +5,7 @@
 # Tools
 - NLTK
 - Stanford Named Entity Recognizer (NER) 
-- 
-
+- HanNLP [[github](https://github.com/hankcs/HanLP)]
 
 
 
