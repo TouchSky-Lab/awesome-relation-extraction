@@ -2,8 +2,10 @@
 
 
 
-# 
-
+# Tools
+- NLTK
+- Stanford Named Entity Recognizer (NER) 
+- 
 
 
 
